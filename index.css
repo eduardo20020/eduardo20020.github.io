@@ -11,7 +11,8 @@ h1{
 }
 .caja{
     margin: 0 auto;
-    width: 100px;
+    width: 350px;
+    height: 500px;
     border-width: 2px;
     border-style: solid;
     border-color: black;
